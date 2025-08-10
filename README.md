@@ -48,4 +48,3 @@ The script will output something like:
 [14:32:01] https://example.com - 200 - 0.123s
 [14:32:02] https://example.com - 200 - 0.115s
 [14:32:03] https://example.com - 200 - 0.119s
-
